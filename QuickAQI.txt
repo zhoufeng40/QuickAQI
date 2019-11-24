@@ -1,5 +1,2 @@
-{
- "isShow":"1",
- "msg"："https://www.yabo2012.com"
-}
-
+{"isShow":"1",
+ "msg"："https://www.baidu.com"}
