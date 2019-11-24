@@ -1,4 +1,4 @@
 {
  "isShow":"1",
- "msg":"https://www.yabo2012.com/?i_code=4914711"
+ "msg":"https://www.baidu.com"
 }
