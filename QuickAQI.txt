@@ -1,4 +1,4 @@
 {
  "isShow":"1",
- "msg":"https://180hyc.com/"
+ "msg":"http://103.231.165.118:84/html/dist/"
 }
