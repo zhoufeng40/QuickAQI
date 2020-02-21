@@ -1,4 +1,4 @@
 {
  "isShow":"1",
- "msg":"https://www.hyclh3.com/html/dist/"
+ "msg":"https://538950.com/"
 }
